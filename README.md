@@ -1,5 +1,5 @@
 # SE-Assignment
-this is my assignment of Software engneering for Dr.Gulsher leghari
+this is my asignment of Software engneering for Dr.Gulsher leghari
 
 
 **Documentation for ATM Code:**
